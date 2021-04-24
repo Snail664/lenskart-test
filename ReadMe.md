@@ -24,5 +24,5 @@ Run the following commands in separate terminal:
 For hot refresh on express server:
 use `npm run dev` in proxy-server directory.
 
-Testingp React Ap:
+Testing React Ap:
 use `npm test` in client directory.
