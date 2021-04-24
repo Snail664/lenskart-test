@@ -7,12 +7,12 @@ Node express Proxy Server used to fetch API data as http://139.59.244.121/my_ite
 
 # Instructions
 
-### Install dependencies
+## Install Dependencies
 
 1. Run `cd client && npm i`
 2. Run `cd proxy-server && npm i`
 
-### Run Application
+## Run Application
 
 Run the following commands in separate terminal:
 
