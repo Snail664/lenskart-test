@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot for loaded data 1`] = `
+<div
+  className="text-center"
+>
+  <h1>
+    Category List
+  </h1>
+  <h4>
+    Please select a category
+  </h4>
+  <div
+    className="d-flex flex-wrap justify-content-center"
+  >
+    <div
+      className="p-5 m-5 w-100 h-100 bg-dark rounded"
+    >
+      <a
+        href="/categories/spectacles"
+        onClick={[Function]}
+      >
+        <h2
+          className="text-white"
+        >
+          spectacles
+        </h2>
+      </a>
+    </div>
+    <div
+      className="p-5 m-5 w-100 h-100 bg-dark rounded"
+    >
+      <a
+        href="/categories/sunglasses"
+        onClick={[Function]}
+      >
+        <h2
+          className="text-white"
+        >
+          sunglasses
+        </h2>
+      </a>
+    </div>
+  </div>
+</div>
+`;
