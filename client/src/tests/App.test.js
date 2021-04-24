@@ -6,7 +6,6 @@ import axiosMock from "axios";
 
 import App from "../components/App";
 import { dummyData } from "./dummyData";
-import history from "../history";
 
 let container = null;
 beforeEach(() => {
